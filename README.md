@@ -1,6 +1,7 @@
 # Classical Ciphers Collection
 
-This repository contains Python implementations of various classical ciphers. These ciphers are part of cryptography history and include both **substitution** and **transposition** ciphers. The goal of this project is to provide code for educational and experimental purposes.
+This repository contains Python implementations of various classical ciphers. These ciphers are part of cryptography history and include both **substitution** and **transposition** ciphers. The goal of this project is to provide code for educational purposes.
+A python notebook is uploaded that contains all the codes
 
 ---
 
